@@ -39,7 +39,7 @@
                 q = d.e.div(A || (A = Object(l.a)(["\n  position: absolute;\n  top: 0;\n  left: 0;\n\n  & :nth-child(2) {\n    animation: ", " 2s ease-in-out infinite;\n    animation-delay: 1s;\n  }\n\n  & :nth-child(3) {\n    animation: ", " 5s ease-in-out infinite;\n    animation-delay: 0.66s;\n  }\n\n  & :nth-child(4) {\n    animation: ", " 2.5s ease-in-out infinite;\n    animation-delay: 0.33s;\n  }\n"])), H, H, H),
                 X = "/images/home/lunar-bunny/",
                 Z = "bunny",
-                W = { path: "/images/home/lunar-bunny/", attributes: [{ src: "star-l", alt: "3D Star" }] },
+                W = { path: "/images/home/lunar-bunny/", attributes: [{ src: "", alt: "" }] },
                 $ = function() {
                     var e = Object(m.b)().t,
                         t = Object(b.c)().account,
