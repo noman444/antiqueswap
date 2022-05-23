@@ -6792,7 +6792,7 @@
             le = n(105),
             pe = n(21),
             be = n(139),
-            ye = function(e) { return [{ label: e("Home"), icon: "HomeIcon", href: "/" }, { label: e("Swap"), icon: "TradeIcon", items: [{ label: e("Exchange"), href: "/swap" }, { label: e("Liquidity"), href: "/liquidity" }] }, { label: e("More Info"), icon: "MoreIcon", items: [{ label: e("CoinMarketCap"), href: "https://coinmarketcap.com/" }, { label: e("Coingecko"), href: "https://www.coingecko.com/" }, { label: e("Whitepaper"), href: "https://antiqueswap.finance/wp-content/uploads/2022/05/AntiqueSwap-Whitepaper.pdf" }] }] },
+            ye = function(e) { return [{ label: e("Home"), icon: "HomeIcon", href: "/" }, { label: e("Swap"), icon: "TradeIcon", items: [{ label: e("Exchange"), href: "/swap" }, { label: e("Liquidity"), href: "/liquidity" }] }, { label: e("Farm"), icon: "FarmIcon", href: "/" }, { label: e("Staking"), icon: "PoolIcon", href: "/" }, { label: e("More Info"), icon: "MoreIcon", items: [{ label: e("CoinMarketCap"), href: "https://coinmarketcap.com/" }, { label: e("Coingecko"), href: "https://www.coingecko.com/" }, { label: e("Whitepaper"), href: "https://antiqueswap.finance/wp-content/uploads/2022/05/AntiqueSwap-Whitepaper.pdf" }] }] },
             fe = n(83),
             me = n(173),
             he = n(114),
